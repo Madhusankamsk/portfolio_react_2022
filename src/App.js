@@ -1,10 +1,11 @@
 import React from 'react'
+import Navigation from './components/Navigation/Navigation'
 
 const App = () => {
   return (
     <>
       <div className='container' >
-        App sutup complete
+        <Navigation/>
       </div>
     </>
   )
