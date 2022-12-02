@@ -36,3 +36,20 @@ body {
 a{
   text-decoration: none;
 }
+
+.btn-link{
+  color: var(--whiteColor);
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 5px;
+  font-size: 0.8rem;
+  border-bottom: 1px solid #689af8;
+  padding: 10px 10px 10px 0;
+  transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+  cursor: pointer;
+}
+
+.btn-link:hover{
+  padding: 10px;
+  background: rgba(104, 154, 248, 0.102);
+}
