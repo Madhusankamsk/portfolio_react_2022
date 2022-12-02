@@ -53,3 +53,17 @@ a{
   padding: 10px;
   background: rgba(104, 154, 248, 0.102);
 }
+
+section{
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+
+ul{
+  list-style: none;
+}
+
+h3{
+  font-size: 3rem;
+  letter-spacing: 2px;
+}
